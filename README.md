@@ -8,11 +8,19 @@ This repository contains the **Figma design file** for a modern **Gym Website UI
 ## 📂 File Structure
 - `Gym-UI.fig` → Main Figma file
 
-## 🔥 Features
-- **Well-structured gym UI design**
-- **Dark theme with yellow highlights**
-- **Multiple sections: Hero, Services, Trainers, Testimonials, Contact**
-- **Designed for web and mobile responsiveness**
+## Features 🚀
+✅ **Modern UI Design** – Clean, professional gym website UI  
+✅ **Dark Theme** – Stylish black-and-yellow theme for an elegant look  
+✅ **Sections Included:**
+   - **Hero Section** – Attractive heading with a call-to-action button  
+   - **Services Section** – Highlights gym offerings like bodybuilding & fitness  
+   - **Trainers Section** – Meet our expert fitness trainers  
+   - **Testimonials** – Customer stories and reviews  
+   - **Facilities** – Free WiFi, changing rooms, and personal training  
+   - **Contact Form** – Allow users to sign up and inquire easily  
+✅ **Figma File Provided** – Ready-to-use `.fig` file for further customization  
+✅ **Responsive Design** – Designed for different screen sizes  
+
 
 ## 🛠️ How to Use
 1. **Download the Figma file** from this repository.
