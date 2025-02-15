@@ -22,13 +22,22 @@ This repository contains the **Figma design file** for a modern **Gym Website UI
 ✅ **Responsive Design** – Designed for different screen sizes  
 
 
-## 🛠️ How to Use
-1. **Download the Figma file** from this repository.
-2. **Open it in Figma** (online or desktop).
-3. **Customize or export assets** for development.
+## How to Use 🔧
+1️⃣ Download the `Gym-web-ui.fig` file from this repository  
+2️⃣ Open [Figma](https://figma.com) (online or desktop)  
+3️⃣ Click **Import File** and select `Gym-web-ui.fig`  
+4️⃣ Customize the design as per your needs  
+5️⃣ Export assets if required for development  
 
-## 🤝 Contributing
-Feel free to submit issues or suggest improvements!
+
+## Contributing 🤝
+We welcome contributions!  
+- Fork the repository  
+- Create a new branch (`feature-branch`)  
+- Commit changes and push to GitHub  
+- Submit a Pull Request  
+
+For major changes, please open an issue first to discuss your ideas.  
 
 ## 📜 License
 This project is licensed under the **MIT License**.
