@@ -8,6 +8,10 @@ This repository contains the **Figma design file** for a modern **Gym Website UI
 ## 📂 File Structure
 - `Gym-UI.fig` → Main Figma file
 
+## Gym UI Preview 📸
+![Gym UI](https://raw.githubusercontent.com/rishabhgjr10/gym-ui-website/main/Gym%20UI.png)
+
+
 ## Features 🚀
 ✅ **Modern UI Design** – Clean, professional gym website UI  
 ✅ **Dark Theme** – Stylish black-and-yellow theme for an elegant look  
